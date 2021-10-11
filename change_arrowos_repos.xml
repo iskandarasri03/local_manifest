@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+	<remote  name="iskandarasri03" fetch="https://github.com/iskandarasri03" />	<remote  name="los" fetch="https://github.com/LineageOS" />
+
+  #android_build
+
+	<remove-project name="android_build" />
+
+	<project path="build" name="android_build" remote="iskandarasri03" revision="arrow-11.0"/>
+
+</manifest>
