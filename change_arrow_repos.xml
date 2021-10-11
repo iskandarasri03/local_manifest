@@ -2,7 +2,7 @@
 
 <manifest>
 
-	<remote  name="iskandarasri03" fetch="https://github.com/iskandarasri03" />	<remote  name="los" fetch="https://github.com/LineageOS" />
+	<remote  name="iskandarasri03" fetch="https://github.com/iskandarasri03"/>
 
   #android_build
 
