@@ -6,8 +6,8 @@
 
         #android_build
 
-	<remove-project name="build/core/Makefile" />
+	<remove-project name="android_build" />
 
-	<project path="build/core" name="android_build/core/Makefile" remote="iskandarasri03" revision="arrow-11.0"/>
+	<project path="build" name="android_build" remote="iskandarasri03" revision="arrow-11.0"/>
 
 </manifest>
