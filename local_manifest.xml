@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/dandelion" name="iskandarasri03/android_device_xiaomi_dandelion.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/xiaomi/dandelion" name="Redmi-MT6765/android_vendor_xiaomi_dandelion.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaomi/dandelion" name="iskandarasri03/android_vendor_xiaomi_dandelion.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/xiaomi/dandelion" name="Redmi-G25-Dev/android_kernel_xiaomi_mt6765g.git" remote="github" revision="android-10.0" />
  <project path="device/mediatek/sepolicy" name="iskandarasri03/device_mediatek_sepolicy.git" remote="github" revision="eleven" />
  
