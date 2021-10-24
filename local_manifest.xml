@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/dandelion" name="iskandarasri03/android_device_xiaomi_dandelion.git" remote="github" revision="styx-11" />
+ <project path="device/xiaomi/dandelion" name="iskandarasri03/android_device_xiaomi_dandelion.git" remote="github" revision="11" />
  <project path="vendor/xiaomi/dandelion" name="iskandarasri03/android_vendor_xiaomi_dandelion.git" remote="github" revision="lineage-18.1" />
  
 </manifest>
