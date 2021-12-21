@@ -2,10 +2,14 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/dandelion" name="Redmi-MT6765/testing/android_device_xiaomi_dandelion.git" remote="gitlab" revision="lineage-18,1" />
- <project path="vendor/xiaomi/dandelion" name="Redmi-MT6765/Iskandar/android_vendor_xiaomi_dandelion.git" remote="gitlab" revision="lineage-18.1" />
- <project path="device/mediatek/common" name="Redmi-MT6765/device_mediatek_common.git" remote="github" revision="eleven" />
- <project path="device/mediatek/sepolicy" name="Redmi-MT6765/device_mediatek_sepolicy.git" remote="github" revision="eleven" />
+ <project path="device/realme/RMX2020" name="iskandarasri03/device_realme_RMX2020-1.git" remote="github" revision="lineage-18.1-rmui1" />
+ <project path="vendor/realme/RMX2020" name="Realme-G70-Series/vendor_realme_RMX2020.git" remote="github" revision="11-rmui1" />
+ <project path="kernel/realme/RMX2020" name="Realme-G70-Series/kernel_realme_rmx2020.git" remote="github" revision="lineage-18.1" />
+ <project path="android/packages/apps/RealmeParts" name="Realme-G70-Series/android_packages_apps_RealmeParts.git" remote="github" revision="lineage-18.1" />
+ <project path="android/packages/apps/RealmeDirac" name="Realme-G70-Series/android_packages_apps_RealmeDirac.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/mediatek/interfaces" name="Realme-G70-Series/vendor_mediatek_interfaces.git" remote="github" revision="dumaloo-release" />
+ <project path="vendor/mediatek/ims" name="Realme-G70-Series/vendor_mediatek_ims.git" remote="github" revision="eleven" />
+ 
 
 </manifest>
 
